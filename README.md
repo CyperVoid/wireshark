@@ -42,7 +42,6 @@ Overall, the experiment demonstrates how different protocols cooperate to ensure
 - Wireshark
 - Kali Linux
 - Web browser  (Firefox)
-- Terminal (ping utility) for generating ICMP/DNS requests
 
 ---
 
@@ -53,5 +52,5 @@ This activity successfully demonstrates:
 - Recognition of encrypted and non-encrypted network traffic patterns
 
 ---
-
+## Screenshots Mentioned in pdf
 
